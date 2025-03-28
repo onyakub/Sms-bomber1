@@ -45,7 +45,7 @@
             margin: 0 auto 30px;
             position: relative;
             overflow: hidden;
-            border-radius: 50%;
+            border-radius: 51%;
             box-shadow: 0 0 20px var(--primary-color);
             background: url('https://i.ibb.co/54YLjNM/20240912-145954.png') no-repeat center center;
             background-size: cover;
